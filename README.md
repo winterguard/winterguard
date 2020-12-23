@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Winterguard's Trophy](https://github-profile-trophy.vercel.app/?username=winterguard&row=1&margin-w=15&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![Winterguard's Trophy](https://github-profile-trophy.vercel.app/?username=winterguard&row=1&margin-w=15&theme=dracula)](https://github.com/winterguard)
 
-![Winterguard's Github Stats](https://github-readme-stats.vercel.app/api?username=winterguard&show_icons=true&theme=synthwave)
+[![Winterguard's Github Stats](https://github-readme-stats.vercel.app/api?username=winterguard&show_icons=true&theme=synthwave)](https://github.com/winterguard)
+
+[![Winterguard's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterguard&theme=radical)](https://github.com/winterguard)

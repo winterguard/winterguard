@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Winterguard's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterguard&theme=synthwave)](https://github.com/winterguard)
+[![Winterguard's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterguard&layout=compact&theme=synthwave)](https://github.com/winterguard)
 
 [![Winterguard's Github Stats](https://github-readme-stats.vercel.app/api?username=winterguard&show_icons=true&theme=synthwave)](https://github.com/winterguard)
 

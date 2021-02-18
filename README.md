@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwinterguard&count_bg=%23FF00F1&title_bg=%232642D9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/winterguard)
 
+[![Winterguard's Metrics](https://metrics.lecoq.io/winterguard?template=classic&base.repositories=0&languages=1&languages.ignored=c%2Cc%2B%2B%2Cjava&config.timezone=Asia%2FSeoul&config.animated=true)](https://github.com/winterguard)
 
 [![Winterguard's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterguard&layout=compact&theme=synthwave)](https://github.com/winterguard)
 
 [![Winterguard's Github Stats](https://github-readme-stats.vercel.app/api?username=winterguard&show_icons=true&theme=synthwave)](https://github.com/winterguard)
 
 [![Winterguard's Trophy](https://github-profile-trophy.vercel.app/?username=winterguard&row=1&margin-w=15&theme=dracula)](https://github.com/winterguard)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwinterguard&count_bg=%23FF00F1&title_bg=%232642D9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/winterguard)

@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Winterguard's Metrics](https://metrics.lecoq.io/winterguard?template=classic&base.repositories=0&languages=1&languages.ignored=c%2Cc%2B%2B%2Cjava&config.timezone=Asia%2FSeoul&config.animated=true)
+
 [![Winterguard's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterguard&layout=compact&theme=synthwave)](https://github.com/winterguard)
 
 [![Winterguard's Github Stats](https://github-readme-stats.vercel.app/api?username=winterguard&show_icons=true&theme=synthwave)](https://github.com/winterguard)

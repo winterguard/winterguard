@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Winterguard's Metrics](https://metrics.lecoq.io/winterguard?template=classic&base.repositories=0&languages=1&languages.ignored=c%2Cc%2B%2B%2Cjava&config.timezone=Asia%2FSeoul&config.animated=true)
+
 -->
 
 - 🔭 I’m currently working on react project.
@@ -19,8 +22,6 @@ Here are some ideas to get you started:
 - 💝 Welcome to Jeju! Such a beautiful island!
 - 💬 Ask me about Hot place of Jeju.
 - ⚡ Fun fact: I don't know ↑ cuz Jeju has too many impressive places!
-
-![Winterguard's Metrics](https://metrics.lecoq.io/winterguard?template=classic&base.repositories=0&languages=1&languages.ignored=c%2Cc%2B%2B%2Cjava&config.timezone=Asia%2FSeoul&config.animated=true)
 
 [![Winterguard's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterguard&layout=compact&theme=synthwave)](https://github.com/winterguard)
 

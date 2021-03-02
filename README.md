@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on react project.
-- 🌱 I’m currently learning awesome flutter!
-- 😄 I'm currently playing league of legends.
-- 💝 Welcome to Jeju! Such a beautiful island!
-- 💬 Ask me about Hot place of Jeju.
-- ⚡ Fun fact: I don't know ↑ cuz Jeju has too many impressive places!
+- 🔭 &nbsp; I’m currently working on react project.
+- 🌱 &nbsp; I’m currently learning awesome flutter!
+- 😄 &nbsp; I'm currently playing league of legends.
+- 💝 &nbsp; Welcome to Jeju! Such a beautiful island!
+- 💬 &nbsp; Ask me about Hot place of Jeju.
+- ⚡ &nbsp; Fun fact: I don't know ↑ cuz Jeju has too many impressive places!
 
 [![Winterguard's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterguard&layout=compact&theme=synthwave)](https://github.com/winterguard)
 

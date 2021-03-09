@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 &nbsp; I'm currently playing league of legends.
 - 💝 &nbsp; Welcome to Jeju! Such a beautiful island!
 - 💬 &nbsp; Ask me about Hot place of Jeju.
-- ⚡ &nbsp; Fun fact: I don't know ↑ cuz Jeju has too many impressive places!
+- ⚡ &nbsp; Let's do THIS!
 
 [![Winterguard's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterguard&layout=compact&theme=synthwave)](https://github.com/winterguard)
 

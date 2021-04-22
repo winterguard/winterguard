@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 &nbsp; I’m currently working on react project.
-- 🌱 &nbsp; I’m currently learning awesome flutter!
-- 😄 &nbsp; I'm currently playing league of legends.
+- 🌱 &nbsp; I’m currently learning awesome progamming!
+- 😄 &nbsp; I'm currently playing some board games.
 - 💝 &nbsp; Welcome to Jeju! Such a beautiful island!
-- 💬 &nbsp; Ask me about Hot place of Jeju.
+- 💬 &nbsp; I moved to land.
 - ⚡ &nbsp; Let's do THIS!
 
 [![Winterguard's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterguard&layout=compact&theme=synthwave)](https://github.com/winterguard)

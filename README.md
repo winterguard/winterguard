@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 &nbsp; I’m currently working on react project.
 - 🌱 &nbsp; I’m currently learning awesome progamming!
 - 😄 &nbsp; I'm currently playing some board games.
-- 💝 &nbsp; Welcome to Jeju! Such a beautiful island!
+- 💝 &nbsp; CARMEN SANDIEGO!
 - 💬 &nbsp; I moved to land.
 - ⚡ &nbsp; FLASH
 

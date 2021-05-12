@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 &nbsp; I'm currently playing some board games.
 - 💝 &nbsp; Welcome to Jeju! Such a beautiful island!
 - 💬 &nbsp; I moved to land.
-- ⚡ &nbsp; Let's do THIS!
+- ⚡ &nbsp; FLASH
 
 [![Winterguard's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterguard&layout=compact&theme=synthwave)](https://github.com/winterguard)
 

@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 &nbsp; I’m currently working on react project.
-- 🌱 &nbsp; I’m currently learning awesome progamming!
-- 😄 &nbsp; I'm currently playing some board games.
+- 🔭 &nbsp; I’m currently working on vue project.
+- 🌱 &nbsp; I don't know everything :basecampy:!
+- 😄 &nbsp; I like play board game.
+- 💬 &nbsp; Hello, world.
 - 💝 &nbsp; CARMEN SANDIEGO!
-- 💬 &nbsp; I moved to land.
-- ⚡ &nbsp; FLASH
+- ⚡ &nbsp; AND ALSO FLASH!
 
 [![Winterguard's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterguard&layout=compact&theme=synthwave)](https://github.com/winterguard)
 

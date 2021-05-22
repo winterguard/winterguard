@@ -16,17 +16,11 @@ Here are some ideas to get you started:
 
 -->
 
+[![Winterguard's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterguard)](https://github.com/winterguard)
+
 - 🔭 &nbsp; I’m currently working on vue project.
 - 🌱 &nbsp; I don't know everything :basecampy:!
 - 😄 &nbsp; I like play board game.
 - 💬 &nbsp; Hello, world.
 - 💝 &nbsp; CARMEN SANDIEGO!
 - ⚡ &nbsp; AND ALSO FLASH!
-
-[![Winterguard's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterguard&layout=compact&theme=synthwave)](https://github.com/winterguard)
-
-[![Winterguard's Github Stats](https://github-readme-stats.vercel.app/api?username=winterguard&show_icons=true&theme=synthwave)](https://github.com/winterguard)
-
-[![Winterguard's Trophy](https://github-profile-trophy.vercel.app/?username=winterguard&row=1&margin-w=15&theme=dracula)](https://github.com/winterguard)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwinterguard&count_bg=%23FF00F1&title_bg=%232642D9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/winterguard)

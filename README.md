@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 😄 &nbsp; I like play board game.
 - 💬 &nbsp; Hello, world.
 - 💝 &nbsp; CARMEN SANDIEGO!
-- ⚡ &nbsp; FLASH!
+- ⚡ &nbsp; Time to work.
